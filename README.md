@@ -1,4 +1,4 @@
-## Hola mundo 🍗
+## Hola mundo🐶!!!
 
 <!--
 **JulissaGro/JulissaGro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYWL5fNdPQ0cuCcNvN8of8QQb2r-6ysdkZg&s)
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKcBgdka-G7KnzzxqPR-8EkyUpkZecODxhw&s)
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRXXIPUJMlpuDSjusB0No2HThwR6d1fqiDg&s)
+![alt text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNYyyz0ZUrPfBHg_g6rAtlyFX4gVZ5E3Jg7YwOnw9a-h3Lt-4vV9sZYxA1AWlW_fW78v7ji6381p3gUzs_liI9_UipOxXtNzWzEFUT8rpPrhwOdA12FL3Pctt_HDJQq2VDHCboUcfQmJ7/s1600/gifs-de-tiernos-perritos-2.gif)
